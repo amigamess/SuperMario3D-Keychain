@@ -1,6 +1,9 @@
 👋 Hi, I’m @amigamess (TheShark!)
+
 👀 I’m interested in retrocomputing, music, 3D and more...
+
 🌱 I’m currently learning Kicad, FreeCad...
+
 
 # SuperMario3D-Keychain
 Portachiavi 3D SuperMario
